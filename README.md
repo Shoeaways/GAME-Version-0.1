@@ -3,8 +3,7 @@ A game coded and developed by Eric Shu and Justin Huang
 
 Big Thanks to Andrew R King for providing a cross-platform build environment for SFML and VSCode
 
-> Disclaimer: This game is merely a fun project and isn't meant to offend anybody
-
+> Disclaimer: This game is merely a fun project and isn't meant to rip off anyone's ideas as our own
 ---
 
 ## Prerequisites 
