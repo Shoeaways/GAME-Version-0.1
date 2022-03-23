@@ -1,7 +1,9 @@
 //Widget takes care of all widget related objects and functions
 
 ///////////////////////////////////////////////////////////////
-//TODO:
+//TODO: -> Create new widgets using Aseperite
+//		-> Find/create a style of widgets that would fit the theme well
+//			-> In fact, find a theme for the game 
 ///////////////////////////////////////////////////////////////
 
 using namespace std;
