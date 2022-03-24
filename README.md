@@ -1,12 +1,12 @@
-# GAYME-Version-0.1
+# GAME-Version-0.1
 A game coded and developed by Eric Shu and Justin Huang
 
 Big Thanks to Andrew R King for providing a cross-platform build environment for SFML and VSCode
 
-> Disclaimer: This game is merely a fun project and isn't meant to rip off anyone's ideas as our own
+> Disclaimer: This game is merely a fun project and isn't meant to takt anyone's ideas as our own
 ---
 
-## Prerequisites 
+## Prerequisites
 In order to use this code at the moment, you will have to set up SFML 2.5.1 or the current updated version.
 
 ### Windows
